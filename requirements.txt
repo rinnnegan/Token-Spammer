@@ -1,1 +1,5 @@
-discord.py==2.4.0 pyfiglet==0.8.post1 rich==13.5.2 asyncio json logging
+discord.py==2.4.0 
+pyfiglet==0.8.post1 
+rich==13.5.2 
+asyncio 
+logging
